@@ -6,6 +6,7 @@
         <title>PWL 2024</title>
     </head>
     <body>
-        <h2>Selmat Datang</h2>
+        <h2>Nim : 24410720216</h2>
+        <h2>Nama: Bisma Adhiaksa</h2>
     </body>
 </html>
